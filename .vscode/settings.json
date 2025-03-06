@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/75fd6f3c-88b5-49fb-8c21-a4acc85cca9a/resourceGroups/testcloud-folder/providers/Microsoft.Web/sites/testcloud-backend",
+    "appService.deploySubpath": "code\\backend\\finance_app"
+}
